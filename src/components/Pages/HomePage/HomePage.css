@@ -1,0 +1,20 @@
+.HeaderWrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    height: 45px;
+  }
+
+  .HolyGrail-body {
+    display: flex;
+    flex: 1;
+  }
+
+  .carousel-inner {
+      height: 300px;
+  }
+
+  /* PHONE */
+.phonesWrapper {
+   padding: 30px;
+}

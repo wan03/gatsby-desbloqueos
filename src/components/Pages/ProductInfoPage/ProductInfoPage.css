@@ -1,0 +1,78 @@
+.img-fluid {
+    max-height: 440px;
+}
+
+body{
+
+    font-size: 100%;
+}
+
+
+/* Phone Ordering */
+
+.center {
+    margin: auto;
+    width: 95%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+
+.padded{
+    padding:10px;
+}
+
+.ProductInfoText {
+
+
+}
+
+.ProductInfoText h3 {
+color: #353535;
+font-size:3rem
+}
+
+.ProductInfoText h6 {
+    color: #7c1515;
+    font-size: 2rem;
+    }
+
+.smallText {
+    font-size: 11px;
+
+}
+
+.delivery-time-box{
+    border:0px;
+    border-color:#7c1515;
+    margin-top: 15px;
+    margin-left: -5px;
+}
+.delivery-time-box h6{
+    color:#999999;
+    text-transform: uppercase;
+}
+.delivery-time-box p{
+color: #333333;
+}
+
+
+/* Product Tabs */
+
+.tabsBox {
+    display: block;
+    position: relative;
+    padding: 1em 2em 15em;
+    border-width: 0px;
+    border-style: none;
+    border-color: rgb(216, 216, 216);
+    border-image: initial;
+    margin: 1.5rem 0px 0px;
+    width:100%;
+
+}
+
+.tabContent {
+    padding-top:1.5rem;
+
+}
